@@ -19,7 +19,7 @@ function destructivelyRemoveLastCat(name) {
   cats.pop("");
 }
 function appendCat(name){
-    return cats.(`${Broom}`)
+    
 }
 
 
