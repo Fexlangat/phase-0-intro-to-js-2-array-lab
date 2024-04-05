@@ -5,9 +5,9 @@
     "passes": 2,
     "pending": 0,
     "failures": 6,
-    "start": "2024-03-25T09:27:50.793Z",
-    "end": "2024-03-25T09:27:51.133Z",
-    "duration": 340
+    "start": "2024-04-05T12:12:26.131Z",
+    "end": "2024-04-05T12:12:26.609Z",
+    "duration": 478
   },
   "tests": [
     {
@@ -33,7 +33,7 @@
     {
       "title": "removes the last cat from the cats array",
       "fullTitle": "destructivelyRemoveLastCat() removes the last cat from the cats array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "message": "expected [ 'Milo', 'Otis', 'Garfield' ] to have the same ordered members as [ 'Milo', 'Otis' ]",
@@ -66,7 +66,7 @@
     {
       "title": "prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "prependCat(name) prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "message": "expected [ 'Arnold', 'Otis', 'Garfield' ] to have the same ordered members as [ Array(4) ]",
@@ -121,7 +121,7 @@
     {
       "title": "removes the last cat from the cats array",
       "fullTitle": "destructivelyRemoveLastCat() removes the last cat from the cats array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "message": "expected [ 'Milo', 'Otis', 'Garfield' ] to have the same ordered members as [ 'Milo', 'Otis' ]",
@@ -147,7 +147,7 @@
     {
       "title": "prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "prependCat(name) prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "message": "expected [ 'Arnold', 'Otis', 'Garfield' ] to have the same ordered members as [ Array(4) ]",
